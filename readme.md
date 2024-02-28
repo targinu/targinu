@@ -41,3 +41,9 @@
 <img align= "center" alt ="Adobe Photoshop"src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
 <img align= "center" alt ="Figma"src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </div><br/>
+
+### Estudando no momento
+<div style=display: iniline_block><br/>
+  <img align= "center" alt ="Power BI"src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img align= "center" alt ="React"src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+</div><br/>
