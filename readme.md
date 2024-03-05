@@ -15,7 +15,6 @@
 <img align= "center" alt ="C#"src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img align= "center" alt ="Java"src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align= "center" alt ="Kotlin"src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-<img align= "center" alt ="Python"src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div><br/>
 
 ### Ferramentas
@@ -46,4 +45,5 @@
 <div style=display: iniline_block><br/>
   <img align= "center" alt ="Power BI"src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img align= "center" alt ="React"src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img align= "center" alt ="Python"src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div><br/>
